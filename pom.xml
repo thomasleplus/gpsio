@@ -48,7 +48,7 @@
     <dependency>
       <groupId>org.leplus</groupId>
       <artifactId>ristretto</artifactId>
-      <version>1.0.0</version>
+      <version>RELEASE</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
