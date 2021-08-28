@@ -1,4 +1,4 @@
-#gpsio
+# GPS I/O
 
 GPS data uploader and downloader.
 
